@@ -1,5 +1,7 @@
 # Neovim xcode theme
 
+Fixed version of xcode theme based on `arzg/vim-colors-xcode` for neovim.
+
 A number of Xcode’s colourschemes, now for Neovim!
 
 ![](./xcode-theme-split.png)
@@ -25,7 +27,11 @@ A number of Xcode’s colourschemes, now for Neovim!
 Use your favorite runtimepath/plugin manager. If you don’t have one, I recommend [Plug](https://github.com/junegunn/vim-plug):
 
 ```viml
-Plug 'arzg/vim-colors-xcode'
+Plug 'nomis51/nvim-xcode-theme'
+```
+
+```lua
+{ "nomis51/nvim-xcode-theme" }
 ```
 
 Or, alternatively, you can install the old-fashioned way by copying the relevant directories right into `~/.vim`:
