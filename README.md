@@ -1,6 +1,6 @@
-# vim-colors-xcode
+# Neovim xcode theme
 
-A number of Xcode’s colourschemes, now for (Neo)Vim!
+A number of Xcode’s colourschemes, now for Neovim!
 
 ![](./xcode-theme-split.png)
 
